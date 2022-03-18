@@ -17,4 +17,4 @@
 * 원격 저장소 설정 및 push
 
 * 본인 Github 프로필 사이트 접속해서 확인하기
-  * 예시 URL ) https://github.com/`username`
+  * 예시 URL ) https://github.com/`username` --
